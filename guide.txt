@@ -1,0 +1,19 @@
+1. Check Internet Connection
+
+	Makes a request to connection.php to check if there's a connection
+
+2. Check Download Speed
+
+	Downloads an image to estimate the download speed
+
+3. Check Cloud
+
+	2 Methods - PHP and JS
+	PHP Method is commented in index.html. Currently, JS method is enabled. 
+	If you want to return to this method, you can just uncomment it and 
+	comment the JS method. The JS method tries to download an image, if
+	succeeds, the server is up, if not, the server is down.
+
+4. Check Cloud Speed
+
+	Downloads an image to estimate the download speed
